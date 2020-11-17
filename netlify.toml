@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/email"
+  to = "mailto:public@erikh.me"
+  status = 301
+  force = true
