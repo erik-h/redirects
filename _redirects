@@ -1,2 +1,7 @@
-/			https://erikh.dev
+/			  https://erikh.dev
+/edit		https://github.com/erik-h/redirects/edit/master/_redirects
+
+# Social
 /twitter	https://twitter.com/_erikh
+/github		https://github.com/erik-h
+/email    mailto:public@erikh.me
